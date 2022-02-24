@@ -87,4 +87,4 @@ This template consist of a BDD(Behavior-driven development) framework with Rest-
 ```
  
 For a better understanding, please refer to the blog:-
-https://blog.knoldus.com/wp-admin/post.php?post=132932&action=edit
+https://blog.knoldus.com/rest-assured-jbehave-and-allure-a-happy-marriage/
